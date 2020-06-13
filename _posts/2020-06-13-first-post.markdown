@@ -18,14 +18,14 @@ Normalized by population of each county
 ---
 
 No normalization
-![US animated gif of COVID-19 cases](/images/gifs/covid-US-20200612.gif)
+![US animated gif of COVID-19 cases]({{ "/images/gifs/covid-US-20200612.gif" | relative_url }})
 
 ---
 ---
 ### Stills, Week of June 12, 2020
 
-![US map of COVID-19 cases](/images/jpg/covidMapUS_1.00e+05_run2020-06-13_weekOf20200612.jpg)
+![US map of COVID-19 cases]({{ "/images/jpg/covidMapUS_1.00e+05_run2020-06-13_weekOf20200612.jpg" | relative_url }})
 
 ---
-![US map of COVID-19 cases](/images/jpg/covidMapUS_1_run2020-06-13_weekOf20200612.jpg)
+![US map of COVID-19 cases]({{ "/images/jpg/covidMapUS_1_run2020-06-13_weekOf20200612.jpg" | relative_url }})
 
