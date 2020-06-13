@@ -6,6 +6,6 @@ create both global and more granular maps.
 The code I used to create the images is in a currently private repository. I'm lucky enough to 
 work from home during this crisis, and so this work is done on the weekend. Eventually, the code
 repository will be in a state that I'm okay sharing it. If you're interested in the underlying
-code, let me know and I'll prioritize sharing it.
+code, let me know by opening an issue, and I'll prioritize sharing it.
 
 Please cite the images when used.
