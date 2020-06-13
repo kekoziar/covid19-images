@@ -13,7 +13,7 @@ The frustrating and scary thing I've noticed in the COVID-19 images over the pas
 ### Timelapses, Created June 13, 2020
 
 Normalized by population of each county
-![US animated gif of COVID-19 cases](/images/gifs/covid-US-20200612-100k.gif)
+![US animated gif of COVID-19 cases]({{ my_page.url | baseurl }}/images/gifs/covid-US-20200612-100k.gif)
 
 ---
 
