@@ -10,6 +10,6 @@ permalink: /about/
   And so, here we are. This repository contains mostly GIS images of COVID-19 cases, deaths, and recoveries (when available). It is focused mainly on the United States, although, I've developed the underlying code to easily create both global and more granular maps.
 
   The code I used to create the images is currently in a private repository. I'm lucky enough 
-  to work from home during this crisis, and so the work in this repositoryis done on the weekends. Eventually, the 
+  to work from home during this crisis, and so the work in this repository is done on the weekends. Eventually, the 
   code repository will be in a state that I'm okay sharing it. If you're interested in the 
   underlying code, let me know by [opening an issue (best)](https://github.com/kekoziar/covid19-images/issues), or contact me via social media/email (can't guarantee I'll see it in a timely manner), and I'll prioritize sharing it.
