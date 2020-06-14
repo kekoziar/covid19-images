@@ -31,6 +31,8 @@ url: "https://kekoziar.github.io" # the base hostname & protocol for your site, 
 twitter_username: kekoziar
 github_username:  kekoziar
 
+google_analytics: "G-RV2W87NVBJ"
+
 # Build settings
 theme: minima
 plugins:
