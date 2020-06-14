@@ -21,7 +21,7 @@
 title: COVID-19 Images
 email: koziarke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This repository contains mostly COVID-19 related GIS images focussing on the United States.  
+  This repository contains mostly COVID-19 related GIS images focusing on the United States.  
   It is updated at least weekly. Please cite the images and content as appropriate.
 #baseurl: /covid19-images # the subpath of your site, e.g. /blog
 #url: "https://kekoziar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
