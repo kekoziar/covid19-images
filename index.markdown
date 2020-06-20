@@ -4,6 +4,6 @@
 
 layout: home
 ---
-Latest gif, June 13, 2020
+Latest gif, June 20, 2020
 
-![US animated gif of COVID-19 cases]({{ "/images/gifs/covid-US-20200612-100k.gif" | relative_url }})
+![US animated gif of COVID-19 cases]({{ "/images/gifs/covid-US-20200619-100k.gif" | relative_url }})
