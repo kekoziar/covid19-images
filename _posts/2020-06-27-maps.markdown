@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Maps"
+date:   2020-06-27 09:01:53 -0700
+categories: COVID-19 Timelapse
+
+custom-css-list:
+     - slider/image-slider.css
+---
+No commentary for today. Just images.
+
+Comparing this week's new cases to two weeks ago.  
+
+{% include slider/slider-20200627-2wks.html %}
+
+---
+---
+<br>
+And with last week.
+
+{% include slider/slider-20200627-1wk.html %}
+
+---
+---
+<br>
+
+### Timelapses, Created June 27, 2020
+
+United States, normalized by population of each county
+![US animated gif of COVID-19 cases]({{ "/images/gifs/covid-US-20200626-100k.gif" | relative_url }})
+
+---
+
+World, normalization by population of each country
+![World animated gif of COVID-19 cases]({{ "/images/gifs/covid-world-20200626-1M.gif" | relative_url }})

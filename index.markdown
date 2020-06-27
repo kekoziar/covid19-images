@@ -3,7 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+custom-css-list:
+     - slider/image-slider.css
 ---
-Latest gif, June 20, 2020
+Comparing this week's new cases to two weeks ago.  
 
-![US animated gif of COVID-19 cases]({{ "/images/gifs/covid-US-20200619-100k.gif" | relative_url }})
+{% include slider/slider-20200627-2wks.html %}
