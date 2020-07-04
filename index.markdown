@@ -6,6 +6,6 @@ layout: home
 custom-css-list:
      - slider/image-slider.css
 ---
-Comparing this week's new cases to two weeks ago.  
+Comparing this week's new cases to four weeks ago.  
 
-{% include slider/slider-20200627-2wks.html %}
+{% include slider/slider-20200703-4wks.html %}
