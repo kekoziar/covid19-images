@@ -8,4 +8,4 @@ custom-css-list:
 ---
 Comparing this week's new cases to four weeks ago.  
 
-{% include slider/slider-20200703-4wks.html %}
+{% include slider/slider-20200710-4wks.html %}
