@@ -12,7 +12,7 @@ custom-css-list:
 
 slider-image-current: covidMapUS_step7_1.00e+05_run2020-07-18_weekOf20200717_grey.jpg
 slider-image-1wk: covidMapUS_step7_1.00e+05_run2020-07-11_weekOf20200710.jpg
-slider-image-4wk: covidMapUS_step7_1.00e+05_run2020-06-27_weekOf20200612.jpg
+slider-image-4wk: covidMapUS_step7_1.00e+05_run2020-06-27_weekOf20200619.jpg
 ---
 I was going to start looking at hospital-bed data, which admittedly is hard to get; however, 45's administration now [made it impossible](https://www.cnbc.com/2020/07/16/us-coronavirus-data-has-already-disappeared-after-trump-administration-shifted-control-from-cdc-to-hhs.html){:target="_blank"}
 
