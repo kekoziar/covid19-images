@@ -2,7 +2,8 @@
 layout: post
 title:  "First Post"
 date:   2020-06-13 10:53:53 -0700
-categories: COVID-19 Timelapse
+categories: Timelapse
+tags: [COVID-19]
 ---
 Welcome to my first post in the redesigned site. I have four weeks worth of GIS images, which you can find in the [depths of the repository](https://github.com/kekoziar/covid19-images/tree/master/images/gifs).
 

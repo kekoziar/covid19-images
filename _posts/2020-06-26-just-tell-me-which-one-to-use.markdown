@@ -2,7 +2,8 @@
 layout: post
 title:  "Just Tell Me Which One to Use!"
 date:   2020-06-26 06:42:53 -0700
-categories: COVID-19 Racial Disparities
+categories: Bias
+tags: [COVID-19, Racial disparities]
 image:
  path: /images/jpg/COVID-19_CA-Demographics_graphs_20200625-all_Page_5.jpg
 

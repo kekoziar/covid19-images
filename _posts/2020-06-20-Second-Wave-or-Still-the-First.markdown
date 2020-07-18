@@ -2,7 +2,8 @@
 layout: post
 title:  "Second Wave or Still the First?"
 date:   2020-06-20 08:40:53 -0700
-categories: COVID-19 Timelapse
+categories: Timelapse
+tags: [COVID-19]
 
 custom-css-list:
      - slider/image-slider.css

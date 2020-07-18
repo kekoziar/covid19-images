@@ -2,7 +2,8 @@
 layout: post
 title:  "Independence"
 date:   2020-07-04 07:01:53 -0700
-categories: COVID-19 Timelapse
+categories: Timelapse
+tags: [COVID-19]
 
 custom-css-list:
      - slider/image-slider.css
